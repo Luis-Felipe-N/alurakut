@@ -2,7 +2,7 @@ import styled from 'styled-components'
 
 const MainGrid = styled.main`
   width: 100%;
-  padding: 0 5%;
+  padding: 1rem 5%;
   margin: auto;
   display: grid;
   grid-template-coluns: ;
